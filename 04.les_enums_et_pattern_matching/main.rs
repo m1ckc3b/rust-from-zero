@@ -48,7 +48,7 @@ fn main() {
 
 // A implémenter
 // Either -> lorsqu'une donnée peut être sous 2 formes différentes
-pub enum Either<L, R> {
-  Left(L),
-  Right(R),
-}
+// pub enum Either<L, R> {
+//   Left(L),
+//   Right(R),
+// }
